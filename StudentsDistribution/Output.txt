@@ -1,0 +1,141 @@
+		 Welcome to the CS Sections Distribution System
+
+The courses for this semester are: CPCS204 CPCS214 CPCS301
+----------------------------------------------------------
+
+The first distribution for students among the available sectios 
+===================================================================================================
+
+          Section 1	   	          Section 2	   	          Section 3	   	
+--------------------------------------------------------------------------------------------------
+1110 - Ahmed Sami - Active           1116 - Maher Alsolami - Active       1122 - Waleed Alamri - Active        
+1111 - Mohammed Turkey - Active      1117 - Mohanned Sami - Active        1123 - Sami Alghamdi - Active        
+1112 - Sami Omer - Active            1118 - Feras Ahmed - Active          1124 - Majed Alharbi - Active        
+1113 - Bander Ali - Active           1119 - Nawaf Algarni - Active        1125 - Anwar Aljohani - Active       
+1114 - Basem Alzahrani - Active      1120 - Fahad Alharthi - Active       1120 - Fahad Alharthi - Active       
+1115 - Turkey Almutairi - Active     1121 - Anas Batarfi - Active                                              
+===================================================================================================
+
+Number of students in section 1: 6
+===================================================================================================
+
+Number of students in section 2: 6
+===================================================================================================
+
+Number of students in section 3: 5
+===================================================================================================
+
+No non active students in section 1
+
+No non active students in section 2
+
+No non active students in section 3
+===================================================================================================
+
+	Students in section 1
+	---------------------
+ID          Name           Status
+---------------------------------
+1110     Ahmed Sami        Active
+1111     Mohammed Turkey   Active
+1112     Sami Omer         Active
+1113     Bander Ali        Active
+1114     Basem Alzahrani   Active
+1115     Turkey Almutairi  Active
+===================================================================================================
+
+The student with 1111 id is withdrawn from section 1
+===================================================================================================
+
+	Students in section 1
+	---------------------
+ID          Name           Status
+---------------------------------
+1110     Ahmed Sami        Active
+1111     Mohammed Turkey   Non-Active
+1112     Sami Omer         Active
+1113     Bander Ali        Active
+1114     Basem Alzahrani   Active
+1115     Turkey Almutairi  Active
+===================================================================================================
+
+The student with 2222 id is not found in any section
+===================================================================================================
+
+The non active students in section 1
+----------------------------------------
+1111     Mohammed Turkey
+
+===================================================================================================
+
+No non active students in section 3
+===================================================================================================
+
+The non active students in section 1
+----------------------------------------
+1111     Mohammed Turkey
+
+No non active students in section 2
+
+No non active students in section 3
+===================================================================================================
+
+The student with 1125 id is withdrawn from section 3
+===================================================================================================
+
+          Section 1	   	          Section 2	   	          Section 3	   	
+--------------------------------------------------------------------------------------------------
+1110 - Ahmed Sami - Active           1116 - Maher Alsolami - Active       1122 - Waleed Alamri - Active        
+1111 - Mohammed Turkey - Non-Active  1117 - Mohanned Sami - Active        1123 - Sami Alghamdi - Active        
+1112 - Sami Omer - Active            1118 - Feras Ahmed - Active          1124 - Majed Alharbi - Active        
+1113 - Bander Ali - Active           1119 - Nawaf Algarni - Active        1125 - Anwar Aljohani - Non-Active   
+1114 - Basem Alzahrani - Active      1120 - Fahad Alharthi - Active       1120 - Fahad Alharthi - Active       
+1115 - Turkey Almutairi - Active     1121 - Anas Batarfi - Active                                              
+===================================================================================================
+
+All non active students are removed
+===================================================================================================
+
+          Section 1	   	          Section 2	   	          Section 3	   	
+--------------------------------------------------------------------------------------------------
+1110 - Ahmed Sami - Active           1116 - Maher Alsolami - Active       1122 - Waleed Alamri - Active        
+1112 - Sami Omer - Active            1117 - Mohanned Sami - Active        1123 - Sami Alghamdi - Active        
+1113 - Bander Ali - Active           1118 - Feras Ahmed - Active          1124 - Majed Alharbi - Active        
+1114 - Basem Alzahrani - Active      1119 - Nawaf Algarni - Active        1120 - Fahad Alharthi - Active       
+1115 - Turkey Almutairi - Active     1120 - Fahad Alharthi - Active                                            
+                                     1121 - Anas Batarfi - Active                                              
+===================================================================================================
+
+The student with 1118 id has been removed
+===================================================================================================
+
+          Section 1	   	          Section 2	   	          Section 3	   	
+--------------------------------------------------------------------------------------------------
+1110 - Ahmed Sami - Active           1116 - Maher Alsolami - Active       1122 - Waleed Alamri - Active        
+1112 - Sami Omer - Active            1117 - Mohanned Sami - Active        1123 - Sami Alghamdi - Active        
+1113 - Bander Ali - Active           1119 - Nawaf Algarni - Active        1124 - Majed Alharbi - Active        
+1114 - Basem Alzahrani - Active      1120 - Fahad Alharthi - Active       1120 - Fahad Alharthi - Active       
+1115 - Turkey Almutairi - Active     1121 - Anas Batarfi - Active                                              
+===================================================================================================
+
+Section 2 has been deleted
+===================================================================================================
+
+          Section 1	   	          Section 3	   	
+--------------------------------------------------------------------------------------------------
+1110 - Ahmed Sami - Active           1122 - Waleed Alamri - Active        
+1112 - Sami Omer - Active            1123 - Sami Alghamdi - Active        
+1113 - Bander Ali - Active           1124 - Majed Alharbi - Active        
+1114 - Basem Alzahrani - Active      1120 - Fahad Alharthi - Active       
+1115 - Turkey Almutairi - Active                                          
+===================================================================================================
+
+The remaining sections have been merged
+===================================================================================================
+
+			-------------------------------------
+	   	       |	     Good Bye                |
+                        -------------------------------------
+
+
+
